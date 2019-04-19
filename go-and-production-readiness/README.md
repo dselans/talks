@@ -10,3 +10,5 @@ The short of it:
     * Brady K
     * Cass H
     * .. and many, many others
+
+_Thanks to Logan D for organizing PDX Go and Cloudability for offering their space._
